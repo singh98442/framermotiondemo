@@ -1,0 +1,11 @@
+.demo{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.box1,.box2,.box3,.box4,.box5{
+    margin: 4rem;
+    width: 8rem;
+    height: 8rem;
+    background-color: aqua;
+}
